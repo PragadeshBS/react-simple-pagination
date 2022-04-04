@@ -1,5 +1,7 @@
 # Simple Pagination Utility for React Apps
-:exclamation: Comes with absolutely NO css styles
+A simple pagination utility for react applications.
+- Customisable number of rows per page
+- :exclamation: Comes with absolutely NO css styles
 
 ### Screenshot
 <img src="ss/ss.png">
