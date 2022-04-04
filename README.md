@@ -1,3 +1,5 @@
 # Simple Pagination Utility for React Apps
+:exclamation: Comes with absolutely NO css styles
 
-Rabbits can see behind them without moving their heads
+### Screenshot
+<img src="ss/ss.png">
